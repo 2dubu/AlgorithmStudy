@@ -18,4 +18,5 @@
 | 2022.07.28 |  level 1   | [행렬의 덧셈](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.md) | 연습문제 |     -      |
 | 2022.07.29 |  level 1   | [핸드폰 번호 가리기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.md) | 연습문제 |     -      |
 | 2022.07.30 |  level 1   | [하샤드 수](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.md) | 연습문제 |     -      |
+| 2022.08.01 |  level 1   | [평균 구하기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.md) | 연습문제 |     -      |
 
