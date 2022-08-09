@@ -11,6 +11,8 @@
 
 </br>
 
+**level 1**
+
 |  **날짜**  | **난이도** |                           **문제**                           | **분류** |                          **포스팅**                          |
 | :--------: | :--------: | :----------------------------------------------------------: | :------: | :----------------------------------------------------------: |
 | 2022.07.26 |  level 1   | [직사각형 별찍기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.md) | 연습문제 |                              -                               |
@@ -25,3 +27,8 @@
 | 2022.08.06 |  level 1   | [제일 작은 수 제거하기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md) | 연습문제 |                              -                               |
 | 2022.08.10 |  level 1   | [H-Index](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/H-Index.md) |   정렬   |                              -                               |
 
+**level 2**
+
+|  **날짜**  | 난이도  |                             문제                             | 분류 | 포스팅 |
+| :--------: | :-----: | :----------------------------------------------------------: | :--: | :----: |
+| 2022.08.10 | level 2 | [H-Index](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/H-Index.md) | 정렬 |   -    |
