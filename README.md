@@ -25,9 +25,11 @@
 | 2022.08.03 |  level 1   | [최대공약수와 최소공배수](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md) | 연습문제 | [velog](https://velog.io/@2dubu/Swift-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98) |
 | 2022.08.04 |  level 1   | [짝수와 홀수](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.md) | 연습문제 |                              -                               |
 | 2022.08.06 |  level 1   | [제일 작은 수 제거하기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md) | 연습문제 |                              -                               |
+| 2022.08.11 |  level 1   | [정수 제곱근 판별](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84.md) | 연습문제 |                              -                               |
 
 **level 2**
 
 |  **날짜**  | 난이도  |                             문제                             | 분류 | 포스팅 |
 | :--------: | :-----: | :----------------------------------------------------------: | :--: | :----: |
-| 2022.08.10 | level 2 | [H-Index](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/H-Index.md) | 정렬 |   -    |
+| 2022.08.10 | level 1 | [H-Index](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/H-Index.md) | 정렬 |   -    |
+
