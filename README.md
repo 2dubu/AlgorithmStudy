@@ -32,5 +32,5 @@
 
 |  **날짜**  | 난이도  |                             문제                             | 분류 | 포스팅 |
 | :--------: | :-----: | :----------------------------------------------------------: | :--: | :----: |
-| 2022.08.10 | level 2 | [H-Index](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/H-Index.md) | 정렬 |   -    |
+| 2022.08.10 | level 2 | [H-Index](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/H-Index.md) | 정렬 |   -    |
 
