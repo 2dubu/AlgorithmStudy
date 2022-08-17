@@ -27,6 +27,7 @@
 | 2022.08.06 |  level 1   | [제일 작은 수 제거하기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md) | 연습문제 |                              -                               |
 | 2022.08.11 |  level 1   | [정수 제곱근 판별](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84.md) | 연습문제 |                              -                               |
 | 2022.08.12 |  level 1   | [정수 내림차순으로 배치하기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%A0%95%EC%88%98%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.md) | 연습문제 |                              -                               |
+| 2022.08.17 |  level 1   | [자연수 뒤집어 배열로 만들기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) | 연습문제 |                              -                               |
 
 **level 2**
 
