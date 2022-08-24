@@ -32,6 +32,7 @@
 | 2022.08.20 |  level 1   | [이상한 문자 만들기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) |        연습문제         |                              -                               |
 | 2022.08.21 |  level 1   | [문자열을 정수로 바꾸기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.md) |        연습문제         |                              -                               |
 | 2022.08.22 |  level 1   | [나머지가 1이 되는 수 찾기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.md) | 월간 코드 챌린지 시즌 3 |                              -                               |
+| 2022.08.24 |  level 1   | [약수의 합](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.md) |        연습문제         |                              -                               |
 
 **level 2**
 
