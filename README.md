@@ -40,6 +40,7 @@
 | 2022.09.06 |  level 1   | [문자열 다루기 기본](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8.md) |        연습문제         |                              -                               |
 | 2022.09.08 |  level 1   | [2016년](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/2016%EB%85%84.md) |        연습문제         |                              -                               |
 | 2022.09.12 |  level 1   | [문자열 내 p와 y의 개수](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20p%EC%99%80%20y%EC%9D%98%20%EA%B0%9C%EC%88%98.md) |        연습문제         |                              -                               |
+| 2022.09.15 |  level 1   | [가운데 글자 가져오기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md) |        연습문제         |                              -                               |
 
 **level 2**
 
