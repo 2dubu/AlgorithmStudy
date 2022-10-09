@@ -49,6 +49,7 @@
 | 2022.10.02 |  level 1   | [예산](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%98%88%EC%82%B0.md) |     Summer/Winter Coding     |                              -                               |
 | 2022.10.04 |  level 1   | [[1차] 비밀지도](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.md) | 2018 KAKAO BLIND RECRUITMENT |                              -                               |
 | 2022.10.08 |  level 1   | [K번째수](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/K%EB%B2%88%EC%A7%B8%EC%88%98.md) |             정렬             |                              -                               |
+| 2022.10.10 |  level 1   | [모의고사](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.md) |           완전탐색           |                              -                               |
 
 **level 2**
 
