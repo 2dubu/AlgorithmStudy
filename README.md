@@ -51,6 +51,7 @@
 | 2022.10.08 |  level 1   | [K번째수](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/K%EB%B2%88%EC%A7%B8%EC%88%98.md) |             정렬             |                              -                               |
 | 2022.10.10 |  level 1   | [모의고사](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.md) |           완전탐색           |                              -                               |
 | 2022.10.14 |  level 1   | [삼총사](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%82%BC%EC%B4%9D%EC%82%AC.md) |           연습문제           | [velog](https://velog.io/@2dubu/Swift-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%82%BC%EC%B4%9D%EC%82%AC) |
+| 2022.10.24 |  level 1   | [체육복](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%B2%B4%EC%9C%A1%EB%B3%B5.md) |        탐욕법(Greedy)        |                              -                               |
 
 **level 2**
 
