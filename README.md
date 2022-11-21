@@ -59,7 +59,8 @@
 
 **level 2**
 
-|  **날짜**  | 난이도  |                             문제                             | 분류 | 포스팅 |
-| :--------: | :-----: | :----------------------------------------------------------: | :--: | :----: |
-| 2022.08.10 | level 2 | [H-Index](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/H-Index.md) | 정렬 |   -    |
+|  **날짜**  | 난이도  |                             문제                             |  분류   | 포스팅 |
+| :--------: | :-----: | :----------------------------------------------------------: | :-----: | :----: |
+| 2022.08.10 | level 2 | [H-Index](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/H-Index.md) |  정렬   |   -    |
+| 2022.11.22 | level 2 | [올바른 괄호](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.md) | 스택/큐 |   -    |
 
