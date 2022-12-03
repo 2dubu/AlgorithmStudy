@@ -64,4 +64,5 @@
 | 2022.08.10 | level 2 | [H-Index](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/H-Index.md) |   정렬   |   -    |
 | 2022.11.22 | level 2 | [올바른 괄호](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.md) | 스택/큐  |   -    |
 | 2022.12.02 | level 2 | [최댓값과 최솟값](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.md) | 연습문제 |   -    |
+| 2022.12.03 | level 2 | [카펫](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/%EC%B9%B4%ED%8E%AB.md) | 완전탐색 |   -    |
 
