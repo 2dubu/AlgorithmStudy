@@ -11,7 +11,8 @@
 
 </br>
 
-**level 1**
+<details>
+<summary>Click to level 1 questions 😗</summary>
 
 |  **날짜**  | **난이도** |                           **문제**                           |           **분류**           |                          **포스팅**                          |
 | :--------: | :--------: | :----------------------------------------------------------: | :--------------------------: | :----------------------------------------------------------: |
@@ -57,7 +58,11 @@
 | 2022.11.14 |  level 1   | [과일 장수](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98.md) |          연습 문제           |                              -                               |
 | 2022.11.16 |  level 1   | [없는 숫자 더하기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.md) |    월간 코드 챌린지 시즌3    |                              -                               |
 
-**level 2**
+</div>
+</details>
+
+<details>
+<summary>Click to level 2 questions 🤓</summary>
 
 |  **날짜**  | 난이도  |                             문제                             |   분류   | 포스팅 |
 | :--------: | :-----: | :----------------------------------------------------------: | :------: | :----: |
@@ -67,3 +72,13 @@
 | 2022.12.03 | level 2 | [카펫](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/%EC%B9%B4%ED%8E%AB.md) | 완전탐색 |   -    |
 | 2022.12.26 | level 2 | [최솟값 만들기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) | 연습문제 |   -    |
 
+</div>
+</details>
+
+<details>
+<summary>Click to level 3 questions 🧐</summary>
+
+Not yet!
+
+</div>
+</details>
