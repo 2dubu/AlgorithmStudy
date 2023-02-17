@@ -72,6 +72,7 @@
 | 2022.12.03 | level 2 | [카펫](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/%EC%B9%B4%ED%8E%AB.md) |   완전탐색    |   -    |
 | 2022.12.26 | level 2 | [최솟값 만들기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) |   연습문제    |   -    |
 | 2022.12.28 | level 2 | [짝지어 제거하기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md) | 2017 팁스타운 |   -    |
+| 2023.02.17 |  level  | [JadenCase 문자열 만들기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) |   연습문제    |   -    |
 
 </div>
 </details>
