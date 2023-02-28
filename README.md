@@ -57,7 +57,8 @@
 | 2022.11.04 |  level 1   | [푸드 파이트 대회](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%ED%91%B8%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%8A%B8%20%EB%8C%80%ED%9A%8C.md) |           연습문제            | [velog](https://velog.io/@2dubu/Swift-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%91%B8%EB%93%9C-%ED%8C%8C%EC%9D%B4%ED%8A%B8-%EB%8C%80%ED%9A%8C) |
 | 2022.11.14 |  level 1   | [과일 장수](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98.md) |           연습 문제           |                              -                               |
 | 2022.11.16 |  level 1   | [없는 숫자 더하기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.md) |    월간 코드 챌린지 시즌3     |                              -                               |
-| 2023.02.27 |  level 1   | [숫자 문자열과 영단어](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.md) | 2021 카카오 채용연계형 인턴십 |                                                              |
+| 2023.02.27 |  level 1   | [숫자 문자열과 영단어](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.md) | 2021 카카오 채용연계형 인턴십 |                              -                               |
+| 2023.02.28 |  level 1   | [최소직사각형](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/최소직사각형.md) |           완전탐색            |                              -                               |
 
 </div>
 </details>
