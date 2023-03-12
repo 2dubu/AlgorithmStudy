@@ -59,6 +59,7 @@
 | 2022.11.16 |  level 1   | [없는 숫자 더하기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.md) |    월간 코드 챌린지 시즌3     |                              -                               |
 | 2023.02.27 |  level 1   | [숫자 문자열과 영단어](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.md) | 2021 카카오 채용연계형 인턴십 |                              -                               |
 | 2023.02.28 |  level 1   | [최소직사각형](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/최소직사각형.md) |           완전탐색            |                              -                               |
+| 2023.03.12 |  level 1   | [음양 더하기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.md) |    월간 코드 챌린지 시즌2     |                              -                               |
 
 </div>
 </details>
