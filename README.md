@@ -76,7 +76,7 @@
 | 2022.12.28 | level 2 | [짝지어 제거하기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md) |        2017 팁스타운        |   -    |
 | 2022.02.16 | level 2 | [프린터](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/%ED%94%84%EB%A6%B0%ED%84%B0.md) |           스택/큐           |   -    |
 | 2023.02.17 | level 2 | [JadenCase 문자열 만들기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) |          연습문제           |   -    |
-| 2023.03.02 | level 2 | [영어 끝말잇기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/영어 끝말잇기.md) | Summer/Winter Coding(~2018) |   -    |
+| 2023.03.02 | level 2 | [영어 끝말잇기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/영어%20끝말잇기.md) | Summer/Winter Coding(~2018) |   -    |
 
 </div>
 </details>
