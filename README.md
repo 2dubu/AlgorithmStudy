@@ -79,6 +79,7 @@
 | 2023.02.17 | level 2 | [JadenCase 문자열 만들기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) |          연습문제           |   -    |
 | 2023.03.02 | level 2 | [영어 끝말잇기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/영어%20끝말잇기.md) | Summer/Winter Coding(~2018) |   -    |
 | 2023.03.18 | level 2 | [이진 변환 반복하기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.md) |   월간 코드 챌린지 시즌1    |   -    |
+| 2023.03.19 | level 2 | [예상 대진표](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.md) |        2017 팁스타운        |   -    |
 
 </div>
 </details>
