@@ -60,6 +60,7 @@
 | 2023.02.27 |  level 1   | [숫자 문자열과 영단어](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.md) | 2021 카카오 채용연계형 인턴십 |                              -                               |
 | 2023.02.28 |  level 1   | [최소직사각형](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/최소직사각형.md) |           완전탐색            |                              -                               |
 | 2023.03.12 |  level 1   | [음양 더하기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.md) |    월간 코드 챌린지 시즌2     |                              -                               |
+| 2023.03.31 |  level 1   | [내적](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_1/%EB%82%B4%EC%A0%81.md) |    월간 코드 챌린지 시즌1     |                              -                               |
 
 </div>
 </details>
@@ -80,7 +81,7 @@
 | 2023.03.02 | level 2 | [영어 끝말잇기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/영어%20끝말잇기.md) | Summer/Winter Coding(~2018) |   -    |
 | 2023.03.18 | level 2 | [이진 변환 반복하기](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.md) |   월간 코드 챌린지 시즌1    |   -    |
 | 2023.03.19 | level 2 | [예상 대진표](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.md) |        2017 팁스타운        |   -    |
-| 2023.03.23 | level 2 | [피보나치 수](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.md) |          연습문제           |        |
+| 2023.03.23 | level 2 | [피보나치 수](https://github.com/2dubu/AlgorithmStudy/blob/main/programmers/level_2/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.md) |          연습문제           |   -    |
 
 </div>
 </details>
