@@ -2,14 +2,23 @@
 
 </br>
 
-[Programmers](https://programmers.co.kr/)에 올라와 있는 코딩테스트 문제들로 알고리즘을 학습합니다.  
-프로그래밍 언어는 **Swift**를 사용합니다.
+[Programmers](https://programmers.co.kr/), [Baekjoon](https://www.acmicpc.net/)에 올라와 있는 코딩테스트 문제들로 알고리즘을 학습합니다.  
+프로그래밍 언어는 **Swift**, **Python**를 사용합니다.
 
-</br>
+문제를 클릭하시면 상세 파일로 이동합니다.  
 
-문제를 클릭하시면 상세 파일로 이동합니다.
+## Baekjoon
+<details>
+<summary>Click to Silver questions 😗</summary>
 
-</br>
+|  **날짜**  | **난이도** |                           **문제**                           |           **분류**            |                          **포스팅**                          |
+| :--------: | :--------: | :----------------------------------------------------------: | :---------------------------: | :----------------------------------------------------------: |
+| 2024.05.16 |  Silver 1   | RGB거리 |           다이나믹 프로그래밍            | 
+
+</div>
+</details>
+
+## Programmers
 
 <details>
 <summary>Click to level 1 questions 😗</summary>
