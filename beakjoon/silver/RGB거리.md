@@ -1,3 +1,7 @@
+## Solution
+
+언어 : python
+
 ```python
 n = int(input())
 rgb_cost = [list(map(int, input().split())) for _ in range(n)]
