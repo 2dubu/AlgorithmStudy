@@ -18,6 +18,18 @@
 </div>
 </details>
 
+<details>
+<summary>Click to Gold questions 🥸</summary>
+
+|    날짜    |                     난이도                     |                             문제                             |         분류         | 포스팅 |
+| :--------: | :--------------------------------------------: | :----------------------------------------------------------: | :------------------: | :----: |
+| 2024.05.19 | [Gold 5](https://www.acmicpc.net/problem/2470) | [두 용액](https://github.com/2dubu/AlgorithmStudy/blob/main/beakjoon/gold/%EB%91%90%20%EC%9A%A9%EC%95%A1.md) | 이분 탐색, 두 포인터 |        |
+
+</div>
+</details>
+
+
+
 ## Programmers
 
 <details>
