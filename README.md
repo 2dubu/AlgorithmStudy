@@ -14,6 +14,7 @@
 |  **날짜**  | **난이도** |                           **문제**                           |           **분류**            |                          **포스팅**                          |
 | :--------: | :--------: | :----------------------------------------------------------: | :---------------------------: | :----------------------------------------------------------: |
 | 2024.05.16 | [Silver 1](https://www.acmicpc.net/problem/1149) | [RGB거리](https://github.com/2dubu/AlgorithmStudy/blob/main/beakjoon/silver/RGB%EA%B1%B0%EB%A6%AC.md) |           다이나믹 프로그래밍            ||
+| 2024.06.10 | [Silver 1](https://www.acmicpc.net/problem/1325) | [효율적인 해킹](https://github.com/2dubu/AlgorithmStudy/blob/main/beakjoon/silver/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%20%ED%95%B4%ED%82%B9.md) | 그래프 이론, DFS ||
 
 </div>
 </details>
